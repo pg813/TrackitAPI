@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/seleniumclass/Jars File/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumclass/Jars File/APITestingRestAssured/APITestingRestAssured/Jars/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumclass/Jars File/APITestingRestAssured/APITestingRestAssured/Jars/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumclass/Jars File/APITestingRestAssured/APITestingRestAssured/Jars/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumclass/Jars File/APITestingRestAssured/APITestingRestAssured/Jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumclass/Jars File/APITestingRestAssured/APITestingRestAssured/Jars/groovy-2.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumclass/Jars File/APITestingRestAssured/APITestingRestAssured/Jars/groovy-json-2.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumclass/Jars File/APITestingRestAssured/APITestingRestAssured/Jars/groovy-xml-2.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumclass/Jars File/APITestingRestAssured/APITestingRestAssured/Jars/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumclass/Jars File/APITestingRestAssured/APITestingRestAssured/Jars/hamcrest-core-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumclass/Jars File/APITestingRestAssured/APITestingRestAssured/Jars/hamcrest-library-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumclass/Jars File/APITestingRestAssured/APITestingRestAssured/Jars/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumclass/Jars File/APITestingRestAssured/APITestingRestAssured/Jars/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumclass/Jars File/APITestingRestAssured/APITestingRestAssured/Jars/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumclass/Jars File/APITestingRestAssured/APITestingRestAssured/Jars/jackson-databind-2.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumclass/Jars File/APITestingRestAssured/APITestingRestAssured/Jars/jaxb-api-2.2.12.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumclass/Jars File/APITestingRestAssured/APITestingRestAssured/Jars/jaxb-osgi-2.2.10.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumclass/Jars File/APITestingRestAssured/APITestingRestAssured/Jars/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumclass/Jars File/APITestingRestAssured/APITestingRestAssured/Jars/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumclass/Jars File/APITestingRestAssured/APITestingRestAssured/Jars/rest-assured-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumclass/Jars File/APITestingRestAssured/APITestingRestAssured/Jars/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumclass/Jars File/APITestingRestAssured/APITestingRestAssured/Jars/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/seleniumclass/Jars File/APITestingRestAssured/java-json.jar/java-json.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
